@@ -3,6 +3,10 @@ I created this TPS project with Unreal Engine 4.20. It is my free time project d
 
 ![Alt text](/1.png?raw=true "Screenshot")
 
+![Alt text](/2.png?raw=true "Screenshot")
+
+![Alt text](/3.png?raw=true "Screenshot")
+
 
 C++ and Blueprint used in this demo.
 
